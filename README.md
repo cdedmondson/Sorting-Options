@@ -1,15 +1,15 @@
 # Sorting-Options
 
-*   This program reads in data from a file given by the user and writes output to a separate file also
-*   specified by the user. The program then reads in the information from the file, line by line, and
-*   creates a vector with the given integer values.
-*
-*   The program then prompts the user about which sorting algorithm they would like to use in order to
-*   sort the vector. The four sorting algorithms implemented are: selection sort, merge sort, quick sort,
-*   and insertion sort. Once a sorting algorithm is selected, the program displays step by step every
-*   change that the sorting algorithm does on its journey to completely sorting the integer
-*   values of the vector.  The output file should then contain the sorted values of the vector with a
-*   single integer on each line.
+This program reads in data from a file given by the user and writes output to a separate file also
+specified by the user. The program then reads in the information from the file, line by line, and
+creates a vector with the given integer values.
+
+The program then prompts the user about which sorting algorithm they would like to use in order to
+sort the vector. The four sorting algorithms implemented are: selection sort, merge sort, quick sort,
+and insertion sort. Once a sorting algorithm is selected, the program displays step by step every
+change that the sorting algorithm does on its journey to completely sorting the integer
+values of the vector.  The output file should then contain the sorted values of the vector with a
+single integer on each line.
 
 For example:
 
