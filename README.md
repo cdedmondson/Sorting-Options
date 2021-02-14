@@ -12,8 +12,6 @@ values of the vector.  The output file should then contain the sorted values of 
 single integer on each line.
 
 For example:
-
-Sorting Options:
 ----------------------------------------------
 [+] Enter file for input: input.txt
 [+] Enter file for output: output.txt
